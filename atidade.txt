@@ -1,0 +1,34 @@
+Faça uma página que recebe um número (n) do 
+usuário (máx 10).
+
+
+
+A próxima página deve receber esse número e imprimir 
+na tela (n) inputs para notas de alunos.
+
+
+
+A próxima página deve receber os inputs. 
+Deve percorrer o input e calcular a média de notas.
+
+
+
+DESAFIO, encontrar a menor e a maior nota.
+
+
+
+EXEMPLO:
+
+
+
+USUÁRIO DIGITA O NÚMERO 5.
+
+
+
+NA PRÓXIMA PÁGINA DEVEM SER RENDERIZADOS 5 INPUTS 
+PARA O USUÁRIO ENTRAR COM AS NOTAS.
+
+
+
+AO ENVIAR, EM UMA TERCEIRA PÁGINA DEVE 
+SER CALCULADA A MÉDIA DAS NOTAS.
