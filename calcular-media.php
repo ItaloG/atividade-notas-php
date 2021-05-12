@@ -125,9 +125,8 @@
         ];
     }
 
-
-    $maior = max($notas);
-    $menor = min($notas);
+    // $maior = max($notas);
+    // $menor = min($notas);
 
 
     $soma = 0;   
